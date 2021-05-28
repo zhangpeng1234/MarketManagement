@@ -4,6 +4,7 @@
 共3张表，goods表
 
 ![image](https://user-images.githubusercontent.com/22195610/119924627-89a99200-bfa6-11eb-970a-c43c75673e9c.png)
+参数设计
 ![image](https://user-images.githubusercontent.com/22195610/119924843-e73dde80-bfa6-11eb-8801-6c180e82898a.png)
 
 gsales表
@@ -13,6 +14,14 @@ gsales表
 salesman表
 ![image](https://user-images.githubusercontent.com/22195610/119924748-bcec2100-bfa6-11eb-8f46-a0d5b9124777.png)
 ![image](https://user-images.githubusercontent.com/22195610/119924903-00df2600-bfa7-11eb-8ff5-4de5582c8009.png)
+
+运行效果：
+![image](https://user-images.githubusercontent.com/22195610/119925131-6af7cb00-bfa7-11eb-8567-c7bf1a7e001a.png)
+![image](https://user-images.githubusercontent.com/22195610/119925149-72b76f80-bfa7-11eb-9e18-48e16bf05391.png)
+![image](https://user-images.githubusercontent.com/22195610/119925169-7cd96e00-bfa7-11eb-8944-9e1dd2bacd57.png)
+![image](https://user-images.githubusercontent.com/22195610/119925193-85ca3f80-bfa7-11eb-975c-1773d28be635.png)
+
+
 
 
 
