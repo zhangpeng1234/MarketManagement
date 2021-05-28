@@ -23,6 +23,7 @@ salesman表
 ![image](https://user-images.githubusercontent.com/22195610/119925193-85ca3f80-bfa7-11eb-975c-1773d28be635.png)
 
 
-
+数据库连接：
+String passwd = "******";替换为自己的密码
 
 
