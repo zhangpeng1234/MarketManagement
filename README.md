@@ -16,9 +16,10 @@ salesman表
 ![image](https://user-images.githubusercontent.com/22195610/119924903-00df2600-bfa7-11eb-8ff5-4de5582c8009.png)
 
 运行效果：
+
 ![image](https://user-images.githubusercontent.com/22195610/119925131-6af7cb00-bfa7-11eb-8567-c7bf1a7e001a.png)
-![image](https://user-images.githubusercontent.com/22195610/119925149-72b76f80-bfa7-11eb-9e18-48e16bf05391.png)
-![image](https://user-images.githubusercontent.com/22195610/119925169-7cd96e00-bfa7-11eb-8944-9e1dd2bacd57.png)
+
+
 ![image](https://user-images.githubusercontent.com/22195610/119925193-85ca3f80-bfa7-11eb-975c-1773d28be635.png)
 
 
